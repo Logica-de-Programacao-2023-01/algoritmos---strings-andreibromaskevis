@@ -28,4 +28,3 @@ func sequencia(input string) bool {
 	}
 	return true
 }
-
